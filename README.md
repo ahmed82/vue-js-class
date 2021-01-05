@@ -4,3 +4,7 @@
 ```
 npm run serve
 ```
+### build for production
+```
+npm run build
+```
